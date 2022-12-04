@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/deploy-domino/static/css/main.8a24e9ce.css",
+    "main.js": "/deploy-domino/static/js/main.847e69ec.js",
+    "index.html": "/deploy-domino/index.html",
+    "main.8a24e9ce.css.map": "/deploy-domino/static/css/main.8a24e9ce.css.map",
+    "main.847e69ec.js.map": "/deploy-domino/static/js/main.847e69ec.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8a24e9ce.css",
+    "static/js/main.847e69ec.js"
+  ]
+}
