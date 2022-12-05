@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/deploy-domino/static/css/main.8a24e9ce.css",
-    "main.js": "/deploy-domino/static/js/main.18c05ace.js",
+    "main.css": "/deploy-domino/static/css/main.56e3251f.css",
+    "main.js": "/deploy-domino/static/js/main.4023479e.js",
     "index.html": "/deploy-domino/index.html",
-    "main.8a24e9ce.css.map": "/deploy-domino/static/css/main.8a24e9ce.css.map",
-    "main.18c05ace.js.map": "/deploy-domino/static/js/main.18c05ace.js.map"
+    "main.56e3251f.css.map": "/deploy-domino/static/css/main.56e3251f.css.map",
+    "main.4023479e.js.map": "/deploy-domino/static/js/main.4023479e.js.map"
   },
   "entrypoints": [
-    "static/css/main.8a24e9ce.css",
-    "static/js/main.18c05ace.js"
+    "static/css/main.56e3251f.css",
+    "static/js/main.4023479e.js"
   ]
 }
